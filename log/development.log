@@ -42,3 +42,5 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 37ms (Views: 20.1ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts" for 68.190.71.49 at 2020-04-01 20:53:57 +0000
+Processing by PostsController#index as HTML
